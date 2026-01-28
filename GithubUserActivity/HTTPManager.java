@@ -8,7 +8,7 @@ import java.net.http.HttpResponse;
 
 public class HTTPManager {
 
-    static final String TOKEN = "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";
+    static final String TOKEN = "";
 
     static String getJSON(String url) {
         HttpClient client = HttpClient.newHttpClient();
