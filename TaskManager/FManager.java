@@ -101,7 +101,7 @@ public class FManager {
 
     static void initialise(String path_name) {
         Path p = Paths.get(
-                "C:\\Users\\test\\IdeaProjects\\Projects\\TaskManager\\" + path_name + ".json"
+                "C:\\Users\\test\\IdeaProjects\\Short_Java_Projects\\TaskManager\\" + path_name + ".json"
         );
 
         try {
@@ -121,7 +121,7 @@ public class FManager {
 
     static void put(String path_name, ArrayList<Task> tasks) {
         Path p = Paths.get(
-                "C:\\Users\\test\\IdeaProjects\\Projects\\TaskManager\\" + path_name + ".json"
+                "C:\\Users\\test\\IdeaProjects\\Short_Java_Projects\\TaskManager\\" + path_name + ".json"
         );
 
         String s = "[";
@@ -151,7 +151,7 @@ public class FManager {
 
     static ArrayList<Task> get(String path_name) {
         Path p = Paths.get(
-                "C:\\Users\\test\\IdeaProjects\\Projects\\TaskManager\\" + path_name + ".json"
+                "C:\\Users\\test\\IdeaProjects\\Short_Java_Projects\\TaskManager\\" + path_name + ".json"
         );
 
         try {
