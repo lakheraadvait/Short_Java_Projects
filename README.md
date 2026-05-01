@@ -15,4 +15,8 @@ Each folder represents a separate project with its own scope and implementation.
 
 - **Expense Tracker**  
   Repository: https://github.com/lakheraadvait/Short_Java_Projects/tree/main/ExpenseTracker  
-  Roadmap Project: [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/expense-tracker)
+  Roadmap Project: https://roadmap.sh/projects/expense-tracker
+
+- **Number Guesser Game**
+  Repository: https://github.com/lakheraadvait/Short_Java_Projects/tree/main/NumberGuesser
+  Roadmap Project: https://roadmap.sh/projects/number-guessing-game
